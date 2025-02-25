@@ -1,0 +1,21 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYpS3gwAjgJ3PB2KCdI6K7Y5-M2cwRfBYi9dSGTlAeeRR_kYQX&s);
+    color: aliceblue;
+}
+h1:hover{
+    color: lightgoldenrodyellow;
+}
+.img{
+    width: 600px;
+    height: 300px;
+}
+body{
+    text-align: center;
+}
+.container-fluid{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    align-items: center;
+    text-align: center;
+}
